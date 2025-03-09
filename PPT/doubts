@@ -1,2 +1,53 @@
 
+For Loop/While Loop
+question please ,,. can we get the result as in a column list?
+the out come instead of horizental, we get it vertical, make sense?
+
+
+i asked ,,, so i have to print each element by itself? what if I have big data, say 1000 row?
+
+
+For loop
+{
+'Geovanny',
+'Prakas',
+'Rabie',
+'Rute',
+'Niveethaa'
+}
+
+************
+
+1 -> a = [] - List/Set/Tuple
+2 -> a = {} - List/Set/Tuple
+3 -> a = () - List/Set/Tuple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
