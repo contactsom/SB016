@@ -1,0 +1,5 @@
+class Student:
+
+stuobject=Student()
+
+

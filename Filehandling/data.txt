@@ -1,0 +1,9 @@
+Line1 Tools like Microsoft Excel, Google Sheets, and specialized charting libraries (like Chart.js, ApexCharts) can interpret and display data in this format as line charts.
+
+Line2 Line charts can display continuous data over time, set against a common scale, and are therefore ideal for showing trends in data at equal intervals or over time.
+
+Line3 As a general rule, use a line chart if your data has non-numeric x values — for numeric x values, it is usually better to use a scatter chart.
+
+Line4 If you want to plot temperature over time, the first column could be "Date" (x-axis), and the second column could be "Temperature" (y-axis).
+
+Line5 If you want to compare two different datasets, you could have columns for "Date", "Dataset 1 Values", and "Dataset 2 Values".

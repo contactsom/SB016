@@ -1,0 +1,11 @@
+Student - class
+    Name
+    Email
+    DOB
+    RollNum/Registration Number
+
+
+How to Create the Class
+
+Syntex : class <ClassName>:
+Examp[le : class Student:

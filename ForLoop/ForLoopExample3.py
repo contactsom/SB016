@@ -1,4 +1,4 @@
-learnersName="ABCD" # learnersName hold the String Types data
+learnersName="ABCD" # learnersName hold the String Types data.txt
            # A = 0
            # B = 1
            # C = 2

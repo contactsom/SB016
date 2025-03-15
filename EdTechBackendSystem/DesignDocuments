@@ -1,0 +1,31 @@
+
+Documentation :
+
+1. **User Class**:
+   - Base class with attributes: user_id, name, email, password
+   - Methods to update email/password and validate credentials
+
+2. **Learner Class** (inherits from User):
+   - Adds functionality to enroll in and drop courses
+   - Tracks enrolled courses
+
+3. **Instructor Class** (inherits from User):
+   - Manages courses taught by the instructor
+   - Methods to add and remove courses
+
+4. **Course Class**:
+   - Stores course details and enrolled learners
+   - Methods to add, remove, and list learners
+
+5. **Enrollment Class**:
+   - Manages the relationship between learners and courses
+   - Tracks enrollment status (Active, Completed, Dropped)
+
+6. **SLTechBackend Class**:
+   - Central system that integrates all other classes
+   - Manages users, courses, and enrollments
+   - Provides methods for retrieving and listing data
+
+7. **Interactive Function**:
+   - Demonstrates the system's functionality with sample data
+   - Shows how to add users, courses, assign instructors, and manage enrollments

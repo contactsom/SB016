@@ -1,5 +1,5 @@
 print("This is for Dictionary Example")
-# Dictionary will hold that data in KEY and VALUE pairs
+# Dictionary will hold that data.txt in KEY and VALUE pairs
 # dictionary : {K,V}
 
 studentNameRoll={
